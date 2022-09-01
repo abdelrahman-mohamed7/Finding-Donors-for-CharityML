@@ -1,2 +1,2 @@
 # Finding Donors for CharityML
-this is an eductional project from machine learning nanodegree on udacity
+this is an educational  project from machine learning nanodegree on udacity
